@@ -1332,3 +1332,7 @@ For Menu Bar Design
     display: flex;
     align-items: flex-end;
 }
+
+.justify-text{
+    text-align: justify;
+}
