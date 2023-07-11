@@ -19,5 +19,5 @@ My name is Roselli, I'm from Perú and I'm Software Developer
 • REST API
 • API openAI
 
-##Contact
+## Contact
 Find all of my socials and resume in my LinkedIn (https://www.linkedin.com/in/carhuachaguaroselli/)
