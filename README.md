@@ -9,10 +9,10 @@
 <div>
     <ul>
         <li>👩‍💻 I am regularly learning something new in IT.</li>
-        <li>💬 Ask me about **Python, JavaSrcipt, WebServices, SQL.**</li>
-        <li>✍ How to reach me **roselyn199206@gmail.com**</li>
-        <li>🌱 I'm currently learning on **IA, laravel, Node.js.**</li>
-        <li>💻 Social Network [Roselli-in-LinkedIn](https://www.linkedin.com/in/carhuachaguaroselli/)</li>
+        <li>💬 Ask me about <b>Python, JavaSrcipt, WebServices, SQL.</b></li>
+        <li>✍ How to reach me <b>roselyn199206@gmail.com</b></li>
+        <li>🌱 I'm currently learning on <b>IA, laravel, Node.js.</b></li>
+        <li>💻 Social Network <a href="https://www.linkedin.com/in/carhuachaguaroselli/">Roselli-in-LinkedIn</a></li>
     </ul>
 </div>
 
