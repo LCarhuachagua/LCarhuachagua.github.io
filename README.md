@@ -18,29 +18,37 @@
 
 ## Skills
 
-<div style="display: flex;">
-    <ul style="flex-basis: 33%;">
-        <li>Python</li>
-        <li>Javascript</li>
-        <li>C++ / C#</li>
-        <li>HTML5 / CSS</li>
-        <li>SQL Server / MySQL</li>
-    </ul>
-    <ul style="flex-basis: 33%;">
-        <li>Bootstrap</li>
-        <li>Google Charts</li>
-        <li>Api Gmail</li>
-        <li>FastApi</li>
-        <li>Gradio / Pandas</li>
-    </ul>
-    <ul style="flex-basis: 33%;">
-        <li>Git / Github</li>
-        <li>Postman</li>
-        <li>Wordpress</li>
-        <li>REST API</li>
-        <li>API openAI</li>
-    </ul>
-</div>
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li>Python</li>
+                <li>Javascript</li>
+                <li>C++ / C#</li>
+                <li>HTML5 / CSS</li>
+                <li>SQL Server / MySQL</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Bootstrap</li>
+                <li>Google Charts</li>
+                <li>Api Gmail</li>
+                <li>FastApi</li>
+                <li>Gradio / Pandas</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Git / Github</li>
+                <li>Postman</li>
+                <li>Wordpress</li>
+                <li>REST API</li>
+                <li>API openAI</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 ## Contact
 Find all of my socials and resume in my LinkedIn (https://www.linkedin.com/in/carhuachaguaroselli/)
