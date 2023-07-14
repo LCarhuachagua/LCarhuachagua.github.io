@@ -120,9 +120,11 @@ jQuery(document).ready(function ($) {
         $('#main-nav').removeClass('is-visible');
         $('.cd-shadow-layer').removeClass('is-visible');
         $('body,html').animate(
-                {'scrollTop': target.offset().top},
-        900
-                );
+            {
+                'scrollTop': target.offset().top
+            },
+            900
+        );
     });
 
 
